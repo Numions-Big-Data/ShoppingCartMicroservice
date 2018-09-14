@@ -26,6 +26,19 @@
 
 	<dependencies>
 		<dependency>
+<<<<<<< HEAD
+=======
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
+		</dependency>
+
+		<dependency>
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
@@ -46,6 +59,7 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 			<version>2.0.4.RELEASE</version>
 		</dependency>
+<<<<<<< HEAD
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-config</artifactId>
@@ -54,6 +68,12 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 
+=======
+
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-eureka</artifactId>
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
 		</dependency>
 
 	</dependencies>
@@ -64,7 +84,18 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-dependencies</artifactId>
+<<<<<<< HEAD
 				<version>Finchley.SR1</version>
+=======
+				<version>${spring-cloud.version}</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.cloud</groupId>
+				<artifactId>spring-cloud-netflix</artifactId>
+				<version>2.0.2.BUILD-SNAPSHOT</version>
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>

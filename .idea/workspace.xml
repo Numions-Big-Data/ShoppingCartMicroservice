@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d1331199-354a-4fdc-adff-51374e73dbb9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -12,6 +13,9 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/numions/ShoppingCart.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/numions/ShoppingCartController.class" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="d1331199-354a-4fdc-adff-51374e73dbb9" name="Default Changelist" comment="" />
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +29,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ShoppingCartController.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="306">
               <caret line="20" column="44" selection-end-line="66" />
+=======
+            <state relative-caret-position="510">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
             </state>
           </provider>
         </entry>
@@ -34,23 +43,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="346">
               <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            </state>
+          </provider>
+=======
+            <state relative-caret-position="1037">
+              <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ExampleApplication.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ExampleApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="51">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+=======
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/resources/bootstrap.properties">
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ShoppingCart.java">
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="2" selection-end-column="45" />
@@ -71,10 +119,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/numions/Catalogo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/numions/ShoppingCart.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/numions/ShoppingCartController.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/resources/application.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/numions/ExampleApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/resources/bootstrap.properties" />
+=======
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/numions/ExampleApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
       </list>
     </option>
   </component>
@@ -87,6 +142,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+<<<<<<< HEAD
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -98,6 +154,9 @@
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
+=======
+      <expand />
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
       <select />
     </treeState>
   </component>
@@ -120,6 +179,11 @@
             <path>
               <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
@@ -161,9 +225,46 @@
               <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="numions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShoppingCartMicroservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShoppingCartMicroservice" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
           </expand>
           <select />
         </subPane>
@@ -172,6 +273,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536918060301" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../InfoOrder/InfoOrderMicroService" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -181,6 +283,15 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/numions" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536838043568" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../microservices_training-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main" />
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -256,7 +367,11 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24958494" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.11898174" />
+=======
+      <window_info anchor="right" id="Maven" order="4" weight="0.32982844" />
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -274,20 +389,44 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/numions/catalog/Controlador.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/numions/catalog/ExampleApplication.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/numions/catalog/Catalogo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ShoppingCartController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="44" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="306">
+          <caret line="20" column="44" selection-end-line="66" />
+=======
         <state relative-caret-position="476">
           <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/Producto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/numions/ExampleApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#463#0" expanded="true" />
+          </folding>
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ShoppingCartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/Producto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -299,6 +438,36 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/application.properties">
+=======
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingCart.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/ExampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+>>>>>>> 8a3106360346c7c24b9a61dba6eff0ffebcac80b
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/numions/resources.properties">
